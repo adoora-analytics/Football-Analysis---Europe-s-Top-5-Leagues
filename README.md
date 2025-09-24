@@ -27,7 +27,7 @@ Read full breakdown here 👉  [Medium Article](https://obajimiaduraa.medium.com
 
 ## 📊 Dataset
 
-Source: Kaggle (FBref-based stats)
+Source: [Kaggle](https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025) (FBref-based stats)
 
 Size: ~2,000 rows, 250+ statistical fields
 
