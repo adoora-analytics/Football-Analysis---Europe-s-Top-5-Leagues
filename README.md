@@ -62,8 +62,8 @@ Season-over-season view of balance across Europe’s top leagues
 
 🔗 Medium Article
 
-Read the full write-up here 👉 2024/25 Football Stats Review
-
+Read the full write-up here 👉 https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9
+Explore dashboard 👉 https://app.powerbi.com/view?r=eyJrIjoiMDZmNTVmY2EtZWUwMC00N2U4LWI1OTAtM2EzN2VjZjMyNDkxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=6274d1e560532d8b5b02
 
 ---
 
