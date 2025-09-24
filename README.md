@@ -19,7 +19,7 @@ MySQL → Data cleaning, joins, and exploratory queries
 
 Power Query → Data transformation, unpivoting, and preprocessing
 
-Power BI → Data modelling, KPI design, and visualization
+Power BI → Data modelling, dashboard design and visualization
 
 
 
