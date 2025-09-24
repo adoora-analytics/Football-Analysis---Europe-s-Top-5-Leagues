@@ -56,10 +56,21 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ---
 
-## 📷 Dashboard Preview
+## 📂 Repository Structure
 
-(Insert Power BI dashboard screenshots here)
-
+```bash
+Football-Analytics-2024-25/
+│
+├── images/                       # Dashboard screenshots & visuals
+│   └── football_szn_review-4.png
+│
+├── FootballSznAnalysis.pbix      # Power BI dashboard file
+├── players_data-2024_2025.csv    # Player statistics dataset (Top 5 Leagues)
+├── players_dataquery.sql         # SQL script for initial data queries
+├── per 90 stats revised.sql      # SQL script for per 90 mins analysis
+│
+├── README.md                     # Project documentation
+├── LICENSE                       # License information
 
 ---
 
