@@ -44,13 +44,13 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ## 📌 Key Insights
 
-League-wide metrics on possession, passing accuracy, and defensive solidity
+- League-wide metrics on possession, passing accuracy, and defensive solidity
 
-Player radar charts for role-specific comparisons (attackers, defenders, goalkeepers)
+- Player radar charts for role-specific comparisons (attackers, defenders, goalkeepers)
 
-Nationality contributions showing how countries influence tactical identity
+- Nationality contributions showing how countries influence tactical identity
 
-Season-over-season view of balance across Europe’s top leagues
+- Season-over-season view of balance across Europe’s top leagues
 
 
 
