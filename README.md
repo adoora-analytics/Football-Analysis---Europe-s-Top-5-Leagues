@@ -4,10 +4,12 @@ A data-driven review of the 2024/25 season across Europe’s Top 5 leagues — e
 
 ---
 
+## 📖 Project Overview
+
 This project provides an analytical review of the 2024/25 football season across Europe’s Top 5 leagues — Premier League, La Liga, Bundesliga, Serie A, and Ligue 1.
 The aim is to evaluate player and team performance using advanced statistics, data modelling, and interactive Power BI dashboards.
 
-
+Read full breakdown here 👉  [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
 ---
 
 ## 🔧 Tools & Technologies
