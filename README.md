@@ -70,15 +70,13 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ---
 
-## 🔗 Medium Article & Dashboard 
+## 🔗 Medium Article & Dashboard Preview 
 
 Read the full write-up here 👉 [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
 
+
 Explore the interactive dashboard 👉 [Explore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDZmNTVmY2EtZWUwMC00N2U4LWI1OTAtM2EzN2VjZjMyNDkxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=6274d1e560532d8b5b02) 
 
----
-
-## 📊 Dashboard Preview
 
 #### 1️⃣ Player Profile & Rating  
 ![Player Profile](images/football_szn_review-1.png)
