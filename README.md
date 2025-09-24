@@ -81,13 +81,13 @@ Explore the interactive dashboard 👉 [Explore Dashboard](https://app.powerbi.c
 ## 📊 Dashboard Preview
 
 #### 1️⃣ Player Profile & Rating  
-![Player Profile](images/football_szn_review-4.png)
+![Player Profile](images/football_szn_review-1.png)
 
 #### 2️⃣ Metrics Radar  
-![Metrics Radar](images/football_szn_review-4.png)
+![Metrics Radar](images/football_szn_review-2.png)
 
 #### 3️⃣ League Stats  
-![League Stats](images/football_szn_review-4.png)
+![League Stats](images/football_szn_review-3.png)
 
 #### 4️⃣ Nationality Stats  
 ![Nationality Stats](images/football_szn_review-4.png)
