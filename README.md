@@ -78,15 +78,25 @@ Explore the interactive dashboard 👉 [Explore Dashboard](https://app.powerbi.c
 
 ---
 
-## 🚀 How to Use
+## 📊 Dashboard Preview
 
-1. Clone the repository
+#### 1️⃣ Player Profile & Rating  
+![Player Profile](images/football_szn_review-4.png)
 
+#### 2️⃣ Metrics Radar  
+![Metrics Radar](images/football_szn_review-4.png)
 
-2. Open the .pbix file in Power BI
+#### 3️⃣ League Stats  
+![League Stats](images/football_szn_review-4.png)
 
+#### 4️⃣ Nationality Stats  
+![Nationality Stats](images/football_szn_review-4.png)
 
-3. Connect to the provided dataset or refresh queries to load updated stats
+---
 
-
-
+## ⚡ Getting Started
+1. Import the `players_data-2024_2025.csv` in MySQL.
+2. Run `players_dataquery.sql` &  to clean & explore the dataset.
+3. Run `per 90 stats revised.sql` to create scaled ratings and tune to your taste.  
+4. Open `FootballSznAnalysis.pbix` in Power BI Desktop.  
+5. Explore the visuals or connect to your own dataset.
