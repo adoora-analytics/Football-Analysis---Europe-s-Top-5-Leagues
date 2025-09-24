@@ -10,7 +10,7 @@ The aim is to evaluate player and team performance using advanced statistics, da
 
 ---
 
-🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 
 MySQL → Data cleaning, joins, and exploratory queries
 
@@ -22,7 +22,7 @@ Power BI → Data modelling, KPI design, and visualization
 
 ---
 
-📊 Dataset
+## 📊 Dataset
 
 Source: Kaggle (FBref-based stats)
 
@@ -39,7 +39,7 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ---
 
-📌 Key Insights
+## 📌 Key Insights
 
 League-wide metrics on possession, passing accuracy, and defensive solidity
 
@@ -53,7 +53,7 @@ Season-over-season view of balance across Europe’s top leagues
 
 ---
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 (Insert Power BI dashboard screenshots here)
 
@@ -62,12 +62,12 @@ Season-over-season view of balance across Europe’s top leagues
 
 🔗 Medium Article
 
-Read the full write-up here 👉 https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9
-Explore dashboard 👉 https://app.powerbi.com/view?r=eyJrIjoiMDZmNTVmY2EtZWUwMC00N2U4LWI1OTAtM2EzN2VjZjMyNDkxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=6274d1e560532d8b5b02
+Read the full write-up here 👉 [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
+Explore the interactive dashboard 👉 [Explore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDZmNTVmY2EtZWUwMC00N2U4LWI1OTAtM2EzN2VjZjMyNDkxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=6274d1e560532d8b5b02) 
 
 ---
 
-🚀 How to Use
+## 🚀 How to Use
 
 1. Clone the repository
 
