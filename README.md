@@ -15,7 +15,7 @@ Read full breakdown here 👉  [Medium Article](https://obajimiaduraa.medium.com
 
 ## 🔧 Tools & Technologies
 
-- MySQL → Data cleaning, joins, and exploratory queries
+- MySQL → Data cleaning, splits, and exploratory queries
 
 - Power Query → Data transformation, unpivoting, and preprocessing
 
