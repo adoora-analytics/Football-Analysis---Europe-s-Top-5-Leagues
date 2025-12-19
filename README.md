@@ -1,19 +1,19 @@
-# ⚽ 2024/25 Football Stats Review — Europe’s Top 5 Leagues
+#  2024/25 Football Stats Review — Europe’s Top 5 Leagues
 
 A data-driven review of the 2024/25 season across Europe’s Top 5 leagues detailing player stats, team performance, and tactical trends using SQL, Power Query & Power BI.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project provides an analytical review of the 2024/25 football season across Europe’s Top 5 leagues — Premier League, La Liga, Bundesliga, Serie A, and Ligue 1.
 The aim is to evaluate player and team performance using advanced statistics, data modelling, and interactive Power BI dashboards.
 
-Read full breakdown & methodology here 👉  [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
+Read full breakdown & methodology here   [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - MySQL → Data cleaning, splits, and exploratory queries
 
@@ -25,7 +25,7 @@ Read full breakdown & methodology here 👉  [Medium Article](https://obajimiadu
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Source: [Kaggle](https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025) (FBref-based stats)
 
@@ -42,7 +42,7 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - League-wide metrics on possession, passing accuracy, and defensive solidity
 
@@ -56,7 +56,7 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 | File | Description |
 |------|-------------|
@@ -70,29 +70,29 @@ Dimension Tables → Attacking, Defensive, Passing, Possession, Goalkeeping
 
 ---
 
-## 🔗 Medium Article & Dashboard Preview 
+##  Medium Article & Dashboard Preview 
 
-Read the full write-up here 👉 [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
-
-
-Explore the interactive dashboard 👉 [Explore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDZmNTVmY2EtZWUwMC00N2U4LWI1OTAtM2EzN2VjZjMyNDkxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=6274d1e560532d8b5b02) 
+Read the full write-up here  [Medium Article](https://obajimiaduraa.medium.com/summary-ab7e5dffdfb9)
 
 
-#### 1️⃣ Player Profile & Rating  
+Explore the interactive dashboard  [Explore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDZmNTVmY2EtZWUwMC00N2U4LWI1OTAtM2EzN2VjZjMyNDkxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=6274d1e560532d8b5b02) 
+
+
+#### 1️ Player Profile & Rating  
 ![Player Profile](images/football_szn_review-1.png)
 
-#### 2️⃣ Metrics Radar  
+#### 2️ Metrics Radar  
 ![Metrics Radar](images/football_szn_review-2.png)
 
-#### 3️⃣ League Stats  
+#### 3️ League Stats  
 ![League Stats](images/football_szn_review-3.png)
 
-#### 4️⃣ Nationality Stats  
+#### 4️ Nationality Stats  
 ![Nationality Stats](images/football_szn_review-4.png)
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 1. Import the `players_data-2024_2025.csv` in MySQL.
 2. Run `players_dataquery.sql` &  to clean & explore the dataset.
 3. Run `per 90 stats revised.sql` to create scaled ratings and tune to your taste.  
